@@ -1,0 +1,14 @@
+﻿[
+   {
+      "name":"flowUrl",
+      "displayName":"Power Automate Flow URL",
+      "type":"string",
+      "description":"Flow URL to send the messages to."
+   },
+   {
+      "name":"emailDomain",
+      "displayName":"Email Domain",
+      "type":"string",
+      "description":"The email domain to add onto the user name, e.g. @domain.com."
+   }
+]
