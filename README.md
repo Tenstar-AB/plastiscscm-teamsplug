@@ -87,3 +87,6 @@ It should look something like this
   <img alt="flow overview"
        src="https://raw.githubusercontent.com/tenstar/plasticscm-teamsplug/master/doc/img/flow-postmessage.png" />
 </p>
+
+# Credits
+This repo is *heavily* inspired by https://github.com/PlasticSCM/slackplug/blob/master/README.md
